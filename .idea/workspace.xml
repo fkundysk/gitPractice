@@ -2,13 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1b4fc9b7-da60-4abf-a918-15697d9eee4c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gitPractice.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/gitPractice/tests/HelloGit.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tests/HelloGit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tests/Login.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tests/HelloGit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tests/HelloGit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tests/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tests/Login.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
