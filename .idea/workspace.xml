@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="1b4fc9b7-da60-4abf-a918-15697d9eee4c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tests/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tests/Login.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +62,22 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
+    <state x="1062" y="100" width="758" height="880" key="DiffContextDialog" timestamp="1588804960375">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1062" y="100" width="758" height="880" key="DiffContextDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1588804960375" />
     <state width="988" height="268" key="GridCell.Tab.0.bottom" timestamp="1588804444498">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
